@@ -9,10 +9,10 @@ This is an educational Telegram bot project implemented using Java Spring Boot. 
 - **"Get Cover Letter" Button:** A button has been added to allow users to seamlessly transition to ChatGPT and receive recommendations for writing cover letters.
 
 ## Usage
-1. Launch the application using `mvn spring-boot:run` or compile and use the JAR file.
-2. Start a conversation with the bot on Telegram: @YourTelegramBotUsername.
-3. Use commands to interact with the bot and browse job vacancies.
-4. Utilize the "Get Cover Letter" button to receive cover letter writing recommendations from ChatGPT.
+1. Launch the application compile and use the JAR file.
+1. Start a conversation with the bot on Telegram: @YourTelegramBotUsername.
+2. Use commands to interact with the bot and browse job vacancies.
+3. Utilize the "Get Cover Letter" button to receive cover letter writing recommendations from ChatGPT.
 
 ## Technologies
 - **Java 17:** The primary programming language.
