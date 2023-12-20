@@ -26,7 +26,7 @@ public class VacanciesBot extends TelegramLongPollingBot {
 
 
     public VacanciesBot() {
-        super("1476453381:AAFRfjH45gMBk8SYGzPljQyzCd0zpn1OI54");
+        super("YOUR_BOT_TOKEN_FROM_BotFather");
     }
 
     @Override
@@ -257,6 +257,6 @@ public class VacanciesBot extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "covid19_coronavirus_bot";
+        return "YOUR_NOT_USERNAME_IN_TELEGRAM";
     }
 }
